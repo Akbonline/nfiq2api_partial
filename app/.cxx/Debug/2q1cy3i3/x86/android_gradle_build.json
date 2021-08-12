@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/cid/AndroidStudioProjects/aug12/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/cid/AndroidStudioProjects/aug12/app/.cxx/Debug/2q1cy3i3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/cid/AndroidStudioProjects/aug12/app/.cxx/Debug/2q1cy3i3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "aug12-Debug-x86": {
+      "buildCommandComponents": [
+        "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/cid/AndroidStudioProjects/aug12/app/.cxx/Debug/2q1cy3i3/x86",
+        "aug12"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "aug12",
+      "output": "/home/cid/AndroidStudioProjects/aug12/app/build/intermediates/cxx/Debug/2q1cy3i3/obj/x86/libaug12.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
